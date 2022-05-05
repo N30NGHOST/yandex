@@ -5,4 +5,5 @@ HOW TO INSTALL?
 2 OPEN CMD 
 3 write in cmd "pip install selenium" , "pip install webdriver_manager"
 4 download chrome browser 
+5 run script
 ===========================================================================================================================
